@@ -1,4 +1,4 @@
-nama: Fahmi ABdus Sattar
+nama: Fahmi Abdus Sattar
 NPM: 50422487
 
 pert1= penjumlahan sederhana a+b, input nama, dan count up angka sampai angka 10
